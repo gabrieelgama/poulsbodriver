@@ -1,4 +1,4 @@
-# SGX535-reMESA
+# Poulsbodriver
 
 **An open-source Mesa/Gallium 3D graphics driver for Intel Poulsbo (GMA 500 / PowerVR SGX535) on Linux.**
 
