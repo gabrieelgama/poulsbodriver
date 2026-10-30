@@ -19,6 +19,9 @@ Welcome to a project involving an old Atom processor, a mysterious GPU, far too 
 
 I started SGX535-reMESA on September 16, 2026. The idea was simple: figure out how the PowerVR SGX535 works and write an independent Mesa/Gallium driver for it.
 
+⚠️⚠️This is a mirror from [Official SGX535-reMESA Repository](https://github.com/remesa-devgroup/SGX535-reMESA)⚠️⚠️
+Be sure to give it some stars! 
+
 The actual work? Not so simple.
 
 There's very little public documentation for this GPU. I've spent most of my time digging through old Windows drivers, Intel EMGD, historical DDK material, disassembly, register definitions, and whatever I could learn by experimenting on the hardware itself.
